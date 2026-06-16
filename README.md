@@ -1,59 +1,61 @@
-Musawenkosi Sibusiso Manzini
+# Musawenkosi Sibusiso Manzini
 
-<h3 align="center">Passionate Full-Stack Developer from Pretoria, South Africa</h3>
+**Full-Stack Developer · Oracle Certified · Computer Science**
 
-<p align="center">
-  <a href="https://github.com/gitLunga/FMT.git" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Current%20Project-Football%20Management%20Talent%20System-blue" alt="Current Project">
-  </a>
-</p>
+I build production-ready web and mobile applications. Based in Pretoria, South Africa — currently completing my Advanced Diploma in Computer Science at Tshwane University of Technology.
 
-About Me
+In 2025 I shipped a full-stack **Smart Events platform** at ICEP (TUT Emalahleni) — handling frontend in ReactJS, mobile in React Native, REST APIs in Node.js/Express, and data in PostgreSQL & MySQL. Led testing, wrote the system docs, served as Scrum Master during the MAISH Hackathon, and came out as **Top Frontend Developer**.
 
-- 🔭 I’m currently working on the [Football Management Talent System](https://github.com/gitLunga/FMT.git), a project aimed at revolutionizing talent management in football.
-- 🌱 I’m currently honing my skills in **React, Java, JavaScript, HTML, CSS, and SQL**.
-- 👯 I’m actively seeking opportunities to collaborate on **frontend and backend projects**.
-- 📫 You can reach me at **manziniarchives@gmail.com**.
+Outside of work I study. Not because I have to — because the field moves fast and I want to stay ahead of it.
 
-Connect with Me
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/musawenkosi-manzini/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/musawenkosi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/musawenkosi/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+## Stack
 
-## Languages and Tools
+**Languages**
+`JavaScript` `TypeScript` `Java` `SQL` `HTML` `CSS`
 
-<p align="left">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40">
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40">
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40">
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40">
-  </a>
-</p>
+**Frontend**
+`React` `React Native` `Tailwind CSS`
+
+**Backend & Databases**
+`Node.js` `Express.js` `PostgreSQL` `MySQL`
+
+**Tools**
+`Git` `GitHub` `Docker` `Postman`
+
+---
+
+## Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Certified Data Science Professional | Oracle Cloud Infrastructure | 2025 |
+| Certified Generative AI Professional | Oracle Cloud Infrastructure | 2025 |
+| Certified AI Foundations Associate | Oracle Cloud Infrastructure | 2025 |
+| Certified Developer Professional | Oracle Cloud Infrastructure | 2025 |
+| SQL (Intermediate) | HackerRank | 2025 |
+| Back End Development & APIs | freeCodeCamp | 2025 |
+
+---
+
+## Education
+
+**Advanced Diploma in Computer Science** — Tshwane University of Technology *(2026 – Present)*
+**Diploma in Computer Science** — Tshwane University of Technology *(2023 – 2025)*
+
+---
+
+## Currently
+
+-  Completing my Advanced Diploma at TUT
+-  Building personal projects to expand my portfolio
+-  Open to junior developer roles and graduate programmes in Gauteng
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Musawenkosi_Manzini-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/musawenkosimanzini)
+[![Portfolio](https://img.shields.io/badge/Portfolio-manziniportfolio.vercel.app-000000?style=flat&logo=vercel)](https://manziniportfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-manziniarchives@gmail.com-D14836?style=flat&logo=gmail)](mailto:manziniarchives@gmail.com)
